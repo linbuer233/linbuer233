@@ -5,7 +5,7 @@ I'm so glad you could visit my Github page.
 - ✍️ I’m currently learning meteorology
 - 😊 I warmly welcome anyone who likes weather programming 
 - 📫 How to reach me: linziyang233@163.com
-- 📰 My blog:linbuer233.github.io
+- 📰 My blog: linbuer233.github.io
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <br>
@@ -15,9 +15,9 @@ I'm so glad you could visit my Github page.
 ![Typora](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-lightgrey)
 ![GitHub Follower](https://img.shields.io/badge/dynamic/json?color=black&label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinbuer233)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linbuer233)](https://github.com/anuraghazra/github-readme-stats)
+[![Linbuer233's github stats](https://github-readme-stats.vercel.app/api?username=linbuer233)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![我的二你模仿不来's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linbuer233&layout=compact&hide_border=true&langs_count=10)
 
 
 <!--
