@@ -5,8 +5,15 @@ I'm so glad you could visit my Github page.
 - ✍️ I’m currently learning meteorology
 - 😊 I warmly welcome anyone who likes weather programming 
 - 📫 How to reach me: linziyang233@163.com
+- 📰 My blog:linbuer233.github.io
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<br>
+
+![vscode](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-VS%20code-blue)
+![pycharm](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-Pycharm-green)
+![Typora](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-lightgrey)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linbuer233)](https://github.com/anuraghazra/github-readme-stats)
 
