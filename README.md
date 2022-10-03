@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi,I'm lin,a student of meteorology. <br>
+I'm so glad you could visit my Github page.
+
+- 🏫 I’m currently working on nanjing
+- ✍️ I’m currently learning meteorology
+- 😊 I warmly welcome anyone who likes weather programming 
+- 📫 How to reach me: linziyang233@163.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linbuer233)](https://github.com/anuraghazra/github-readme-stats)
 
