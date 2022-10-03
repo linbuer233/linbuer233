@@ -1,8 +1,9 @@
-Hello!,I'm Lin. 
-<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="https://gitee.com/linziyang233/imgs/raw/master/img/gitreadme.png" /></p>
-<br />a student of meteorology. <br />
-I'm so glad you could visit my Github page.
+<p align="center"><img width="30%" alt="Hello, I'm Anurag. I do open source!" src="https://gitee.com/linziyang233/imgs/raw/master/img/gitreadme.png" /></p>
+<p align="center">A student of meteorology.</p>
+<p align="center">I'm so glad you could visit my Github page.</p>
 
+
+About me: <br>
 [![Linbuer233's github stats](https://github-readme-stats.vercel.app/api?username=linbuer233)](https://github.com/anuraghazra/github-readme-stats)![我的二你模仿不来's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linbuer233&layout=compact&hide_border=true&langs_count=10)
 
 ![vscode](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-VS%20code-blue)
