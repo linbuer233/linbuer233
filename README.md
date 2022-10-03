@@ -1,4 +1,4 @@
-Hi,I'm lin,a student of meteorology. <br>
+<center> Hello!,I'm Lin. </center><br>a student of meteorology. <br>
 I'm so glad you could visit my Github page.
 
 [![Linbuer233's github stats](https://github-readme-stats.vercel.app/api?username=linbuer233)](https://github.com/anuraghazra/github-readme-stats)![我的二你模仿不来's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linbuer233&layout=compact&hide_border=true&langs_count=10)
