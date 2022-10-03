@@ -4,7 +4,12 @@
 
 
 About me: <br>
-[![Linbuer233's github stats](https://github-readme-stats.vercel.app/api?username=linbuer233)](https://github.com/anuraghazra/github-readme-stats)![我的二你模仿不来's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linbuer233&layout=compact&hide_border=true&langs_count=10)
+<!-- [![Linbuer233's github stats](https://github-readme-stats.vercel.app/api?username=linbuer233)](https://github.com/anuraghazra/github-readme-stats)![我的二你模仿不来's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linbuer233&layout=compact&hide_border=true&langs_count=10) -->
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linbuer233" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linbuer233&layout=compact&hide_border=true&langs_count=10" /></a> |
+| ------------- | ------------- |
+
 
 ![vscode](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-VS%20code-blue)
 ![pycharm](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-Pycharm-green)
