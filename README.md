@@ -22,7 +22,7 @@ About me: <br>
 - ✍️ I’m currently learning meteorology
 - 😊 I warmly welcome anyone who likes weather programming 
 - 📫 How to reach me: linziyang233@163.com
-- 📰 My blog: linbuer233.github.io
+- 📰 My blog: [linbuer233.github.io](https://linbuer233.github.io)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <br>
