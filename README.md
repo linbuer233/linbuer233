@@ -4,7 +4,7 @@
 
 
 About me: <br>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linbuer233" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linbuer233&layout=compact&hide_border=true&langs_count=10" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=linbuer233" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=linbuer233&layout=compact&hide_border=true&langs_count=10" /></a> |
 | ------------- | ------------- |
 
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
