@@ -10,8 +10,9 @@ About me: <br>
 <code><img height="20" alt="C" src="https://img2.baidu.com/it/u=4228444791,802986457&fm=253&fmt=auto&app=138&f=PNG?w=608&h=405"></code>
 <code><img height="20" alt="Fortran" src="https://picx.zhimg.com/bd4537a5c.jpg?source=57bbeac9"></code>
 <code><img height="20" alt="Python" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="20" alt="Julia" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4"></code>
-<code><img height="20" alt="C#" src="https://img2.baidu.com/it/u=186308492,3936582015&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"></code>  
+<code><img height="20" alt="Julia" src="https://avatars.githubusercontent.com/u/743164?s=200&v=4"></code> 
+<code><img height="20" alt="Vue" src="https://avatars.githubusercontent.com/u/6128107?s=300&v=4"></code> 
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?s=200&v=4"></code> 
 
 ![vscode](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-VS%20code-blue)
 ![pycharm](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-Pycharm-green)
