@@ -15,7 +15,6 @@ About me: <br>
 <code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?s=200&v=4"></code> 
 
 ![vscode](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-VS%20code-blue)
-![pycharm](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-Pycharm-green)
 ![Typora](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-lightgrey)
 ![Latex](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Latex-lightgrey)
 ![GitHub Follower](https://img.shields.io/badge/dynamic/json?color=black&label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinbuer233)
