@@ -1,5 +1,5 @@
 <p align="center"><img width="30%" alt="Hello, I'm Anurag. I do open source!" src="https://gitee.com/linziyang233/imgs/raw/master/img/gitreadme.png" /></p>
-<p align="center">A meteorological worker</p>
+<p align="center">A Meteorological Technician</p>
 <p align="center">I'm so glad you could visit my Github page.</p>
 
 
